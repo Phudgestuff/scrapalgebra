@@ -1,2 +1,2 @@
 # scrapalgebra
-A maths solver that I'm making in javascript
+A maths solver/rearranger that I'm making in javascript
